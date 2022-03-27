@@ -1,4 +1,6 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+# Hi there 👋
 
 <a href="https://hoonst.github.io/" target="_blank"><img src="https://img.shields.io/badge/Homepage-41BDF5?style=flat-square&logo=HomeAdvisor&logoColor=blue"/></a>
 
