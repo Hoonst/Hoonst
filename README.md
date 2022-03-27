@@ -3,8 +3,8 @@
 # Hi there 👋
 
 <a href="https://hoonst.github.io/" target="_blank"><img src="https://img.shields.io/badge/Homepage-41BDF5?style=flat-square&logo=HomeAdvisor&logoColor=blue"/></a>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Python&logoColor=white"/>
 
 
 안녕하십니까. 자연어처리를 업으로 삼고 싶은 윤훈상입니다.
